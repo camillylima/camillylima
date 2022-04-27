@@ -1,20 +1,19 @@
 ## Olá, eu sou a Camilly 👋
 
-- 🔭 Eu estou trabalhando com back-end
-- 🌱 Estou estudando .NET e C#
-- 😄 ela/dela
+###### 🔭 Eu estou trabalhando com back-end 
+###### 🌱 Estou estudando .NET e C# 
 
 <div align="center">
   <a href="https://github.com/camillylima">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=camillylima&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillylima&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="149" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillylima&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Camilly-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Camilly-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
   <img align="center" alt="Camilly-Dot-net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
-  <img align="right" alt="Camilly-fotinha" height="90" widht="10-0" src="https://media.discordapp.net/attachments/962500257177010206/968979016134590514/WhatsApp_Image_2022-04-27_at_17.55.14.jpeg?width=481&height=480" />
+  <img align="right" alt="Camilly-fotinhamoty" height="90" widht="10-0" src="https://media.discordapp.net/attachments/962500257177010206/968979016134590514/WhatsApp_Image_2022-04-27_at_17.55.14.jpeg?width=481&height=480" />
 
 </div>
   
