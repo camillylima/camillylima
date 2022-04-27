@@ -1,12 +1,9 @@
-## Olá, eu sou a Camilly 👋
-
-#### 🔭 Eu estou trabalhando com back-end 
-#### 🌱 Estou estudando .NET e C# 
+### 🔭 Eu estou trabalhando com back-end | 🌱 Estudando .NET e C# 
 
 <div align="center">
   <a href="https://github.com/camillylima">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=camillylima&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="149" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillylima&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=camillylima&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="149" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillylima&layout=compact&langs_count=7&theme=jolly"/>
 </div>
   
   <div style="display: inline_block"><br>
