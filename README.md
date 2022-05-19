@@ -10,7 +10,6 @@
   <img align="center" alt="Camilly-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Camilly-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
   <img align="center" alt="Camilly-Dot-net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
-  <img align="right" alt="Camilly-fotinhamoty" height="140" widht="100" src="https://media.discordapp.net/attachments/962500257177010206/968979016134590514/WhatsApp_Image_2022-04-27_at_17.55.14.jpeg?width=481&height=480" />
 
 </div>
   
